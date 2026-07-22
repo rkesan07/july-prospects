@@ -116,10 +116,6 @@ def clean(url):
 st.markdown(
     """
     <div class="hero-title">Talent-agency prospects for July</div>
-    <div class="hero-sub">15 real creator-management agencies, scored for fit with July's
-    CRM&nbsp;+&nbsp;media-kits&nbsp;+&nbsp;payments platform. Every field verified on the agency's
-    live site — nothing estimated.</div>
-    <div class="hero-by">Built by Rishi Kesan · research only, no outreach sent</div>
     """,
     unsafe_allow_html=True,
 )
