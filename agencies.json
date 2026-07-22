@@ -1,0 +1,391 @@
+[
+  {
+    "name": "Spark Talent Group",
+    "website": "https://sparktalentgroup.com",
+    "hq": "Dallas, TX",
+    "hq_short": "Dallas",
+    "roster_count": 20,
+    "roster_display": "20 creators",
+    "employees": "9 visible: Summer Lee (CEO/Founder), 2 Senior Talent Managers, 2 Talent Managers, in-house Legal, EA, Social Manager",
+    "brand_inquiry": "Single /contact form plus an 'Apply Now' button; no deal tracking visible",
+    "brand_partners": "Positions creators in lifestyle, beauty, fashion; specific brand logos not listed on site",
+    "decision_maker": {
+      "name": "Summer Lee",
+      "title": "CEO & Founder",
+      "linkedin": "https://www.linkedin.com/in/summer-lee/"
+    },
+    "flag": "Acquired Jan 2026; Summer Lee has since joined Onefluential (Influential) as Director of Creator Management. Verify current owner before outreach.",
+    "score": 84,
+    "score_breakdown": {"roster_fit": 30, "manual_ops": 16, "multi_manager": 18, "payment_complexity": 13, "reachability": 7},
+    "reasoning": "Scores 84 because the roster page lists exactly 20 exclusively-managed creators (dead-center of the 8-40 sweet spot) coordinated by four talent managers plus in-house Legal across Dallas, New York, Miami and LA — splits and commission tracking are already a multi-city, multi-manager problem — though the January acquisition docks reachability.",
+    "email": "Spark's site lists 20 exclusively-managed creators, four talent managers, and in-house legal across Dallas, New York, Miami, and LA. Coordinating deal splits and commissions across four managers and four cities is exactly where spreadsheets break. July centralizes brand-deal tracking, media kits, and creator payouts so handoffs and splits stop living in email threads. Could we find 15 minutes with whoever now leads creator management post-acquisition?",
+    "sources": [
+      "https://sparktalentgroup.com/about",
+      "https://sparktalentgroup.com/roster",
+      "https://shoutoutdfw.com/meet-summer-lee-influencer-marketing-talent-management-agency-founder/"
+    ]
+  },
+  {
+    "name": "North House Talent",
+    "website": "https://www.northhousetalent.com",
+    "hq": "United States (city not disclosed)",
+    "hq_short": "US",
+    "roster_count": 10,
+    "roster_display": "10 creators",
+    "employees": "Founder Noah Cohen plus an 'expanding team of managers and coordinators'",
+    "brand_inquiry": "Contact form (/contact-nht) and a personal email, nc@northhousetalent.com",
+    "brand_partners": "Cites '50M+ collective reach'; specific brands not named on site",
+    "decision_maker": {
+      "name": "Noah Cohen",
+      "title": "Founder",
+      "linkedin": "https://www.linkedin.com/in/noahscohen/"
+    },
+    "flag": "Operates within the Reign Maker Group ecosystem (partnership announced 2026).",
+    "score": 83,
+    "score_breakdown": {"roster_fit": 30, "manual_ops": 22, "multi_manager": 12, "payment_complexity": 9, "reachability": 10},
+    "reasoning": "Scores 83 because Tubefilter puts the roster at 10 creators three months post-launch — a textbook 8-40 fit — while brand deals route to the founder's personal address (nc@northhousetalent.com) with a hiring team forming behind him, the exact moment ops sprawl into inboxes.",
+    "email": "Noah — North House launched in December and Tubefilter already puts your roster at 10 creators, with managers and coordinators growing behind you. That's exactly the stage where brand deals start living in inboxes and spreadsheets instead of one system. July gives creator managers a shared CRM, on-brand media kits, and creator payouts in one place, so nothing slips as you add headcount. Worth 15 minutes to see if it fits how you're building?",
+    "sources": [
+      "https://www.northhousetalent.com/",
+      "https://www.tubefilter.com/2026/03/11/reign-maker-group-north-house-talent-partnership-noah-cohen/",
+      "https://www.linkedin.com/in/noahscohen/"
+    ]
+  },
+  {
+    "name": "Amore Influence",
+    "website": "https://www.amoreinfluence.com",
+    "hq": "Chicago, IL",
+    "hq_short": "Chicago",
+    "roster_count": 24,
+    "roster_display": "24 creators",
+    "employees": "~4 employees across 2 departments; founder-led",
+    "brand_inquiry": "Single 'Let's chat' /contact form for brands, influencers and press alike",
+    "brand_partners": "Lifestyle, design, fashion and family creators; specific brands not listed",
+    "decision_maker": {
+      "name": "Alexis (Lexi) Janis",
+      "title": "Founder",
+      "linkedin": "https://www.linkedin.com/in/alexis-janis-2ab8b183"
+    },
+    "flag": null,
+    "score": 83,
+    "score_breakdown": {"roster_fit": 30, "manual_ops": 22, "multi_manager": 12, "payment_complexity": 9, "reachability": 10},
+    "reasoning": "Scores 83 because the roster page lists 24 creators managed by a four-person team, yet every brand, influencer and press inquiry funnels through one generic 'Let's chat' contact form — that creator-to-headcount ratio with no visible deal system is precisely July's wedge.",
+    "email": "Alexis — your roster page lists 24 creators, and brand inquiries all funnel through a single 'Let's chat' form on amoreinfluence.com. With a four-person team managing that many creators, deal tracking and media kits usually end up scattered across DMs and Google Drive. July puts your CRM, creator media kits, and brand-deal payments in one workspace built for boutique management teams. Could I grab 15 minutes to show you?",
+    "sources": [
+      "https://www.amoreinfluence.com/about",
+      "https://www.amoreinfluence.com/talent",
+      "https://www.linkedin.com/in/alexis-janis-2ab8b183"
+    ]
+  },
+  {
+    "name": "VRAI Digital",
+    "website": "https://vraidigital.com",
+    "hq": "Greater Chicago Area",
+    "hq_short": "Chicago",
+    "roster_count": 13,
+    "roster_display": "13 creators",
+    "employees": "Founder-led small team",
+    "brand_inquiry": "Founder's personal email (molly@vraidigital.com), a phone number, and a contact form",
+    "brand_partners": "Multicultural female creators in motherhood, wellness and lifestyle; brands not individually listed",
+    "decision_maker": {
+      "name": "Molly Tracy",
+      "title": "CEO & Founder",
+      "linkedin": "https://www.linkedin.com/in/mollyatracy/"
+    },
+    "flag": null,
+    "score": 80,
+    "score_breakdown": {"roster_fit": 30, "manual_ops": 24, "multi_manager": 8, "payment_complexity": 8, "reachability": 10},
+    "reasoning": "Scores 80 because the roster page shows 13 creators and every brand inquiry routes to the founder's personal address (molly@vraidigital.com) plus a phone number — rates, contracts and payouts all pass through one inbox, the friction July removes, offset only by the very lean team.",
+    "email": "Molly — brand inquiries at VRAI route to your personal address, molly@vraidigital.com, and your roster page shows 13 creators in the motherhood and wellness space. When rates, contracts, and payouts run through one founder's inbox, deals stall the moment you're heads-down. July replaces that with a shared CRM, branded media kits, and creator payments your team can run without you. Open to 15 minutes to see it?",
+    "sources": [
+      "https://vraidigital.com/talent-roster",
+      "https://vraidigital.com/about",
+      "https://www.linkedin.com/in/mollyatracy/"
+    ]
+  },
+  {
+    "name": "Innovo Management",
+    "website": "https://innovomanagement.com",
+    "hq": "Nashville, TN & Los Angeles, CA",
+    "hq_short": "Nashville",
+    "roster_count": null,
+    "roster_display": "roster n/d",
+    "employees": "3 co-founders (Sam Saideman CEO, Jay Gudebski President, Ian Rodriguez) plus team",
+    "brand_inquiry": "A 'Work With Us' section only; no deal system visible",
+    "brand_partners": "Cites $5M+ in deal flow and 1,000+ brand deals executed; manages both musicians and creators",
+    "decision_maker": {
+      "name": "Sam Saideman",
+      "title": "Co-Founder & CEO",
+      "linkedin": "https://www.linkedin.com/in/sam-saideman/"
+    },
+    "flag": null,
+    "score": 79,
+    "score_breakdown": {"roster_fit": 20, "manual_ops": 20, "multi_manager": 16, "payment_complexity": 13, "reachability": 10},
+    "reasoning": "Scores 79 because Innovo manages both musicians and influencers under three co-founders and claims 1,000+ brand deals — running music and creator contracts side by side means two sets of splits and payouts to reconcile, though the exact creator roster count isn't published.",
+    "email": "Sam — Innovo has managed both musicians and creators since the Belmont dorm days, and your site cites 1,000+ brand deals and $5M+ in deal flow. Running music and influencer deals side by side means two sets of contracts, splits, and payouts to reconcile. July gives creator managers one CRM, media kits, and payment system so brand deals stop competing with music admin for attention. Open to 15 minutes?",
+    "sources": [
+      "https://innovomanagement.com/",
+      "https://www.linkedin.com/in/sam-saideman/",
+      "https://www.musicconnection.com/exec-profile-sam-saideman-of-innovo-management-llc/"
+    ]
+  },
+  {
+    "name": "Epic Agency",
+    "website": "https://epicagencygroup.com",
+    "hq": "Franklin, TN (Nashville area)",
+    "hq_short": "Nashville",
+    "roster_count": null,
+    "roster_display": "roster by request",
+    "employees": "Two founders visible (both are managers and former creators)",
+    "brand_inquiry": "Single inbox (hello@epicagencygroup.com) plus a 'Work With Our Talent' inquiry form",
+    "brand_partners": "Not individually named on site",
+    "decision_maker": {
+      "name": "Anna Brooks & Joelle Masterson",
+      "title": "Co-Founders",
+      "linkedin": "https://www.linkedin.com/in/anna-brooks-37523659/"
+    },
+    "flag": "Runs two lines of business: social-media coaching for local brands and talent management for the influencer roster.",
+    "score": 77,
+    "score_breakdown": {"roster_fit": 24, "manual_ops": 22, "multi_manager": 12, "payment_complexity": 9, "reachability": 10},
+    "reasoning": "Scores 77 because both founders were creators first and run brand partnerships plus a separate coaching business out of one shared inbox (hello@epicagencygroup.com) — two revenue lines through a single email is clear manual-ops friction, with the full roster count gated behind a request.",
+    "email": "Anna, Joelle — Epic runs two businesses at once: social coaching for local brands and landing partnerships for your influencer roster, all routed through hello@epicagencygroup.com. Juggling both out of one shared inbox makes brand deals and rate cards easy to lose. July gives you a CRM, media kits, and creator payouts in one place so the talent side runs cleanly alongside the coaching. Worth 15 minutes?",
+    "sources": [
+      "https://epicagencygroup.com/",
+      "https://www.linkedin.com/in/joelle-masterson-236082243/",
+      "https://www.linkedin.com/in/anna-brooks-37523659/"
+    ]
+  },
+  {
+    "name": "Link MGMT",
+    "website": "https://www.linkcreatormgmt.com",
+    "hq": "United States (city not disclosed)",
+    "hq_short": "US",
+    "roster_count": null,
+    "roster_display": "roster n/d",
+    "employees": "~18: 2 Managing Directors, 2 SVPs, in-house Corporate Counsel, 5 Senior Talent Managers, 2 Talent Managers, Campaign Strategist, 3 Coordinators",
+    "brand_inquiry": "A 'Talent Inquiry' form (/brands); roster is not publicly listed",
+    "brand_partners": "Amazon, Target, Walmart, L'Oreal, Lululemon named on the homepage",
+    "decision_maker": {
+      "name": "Alex Dochter & Brooke Meister",
+      "title": "Managing Directors",
+      "linkedin": "https://www.linkedin.com/company/linkmgmt"
+    },
+    "flag": null,
+    "score": 77,
+    "score_breakdown": {"roster_fit": 18, "manual_ops": 16, "multi_manager": 20, "payment_complexity": 14, "reachability": 9},
+    "reasoning": "Scores 77 because the team page shows ~18 staff including five senior talent managers and a dedicated in-house Corporate Counsel serving brands like L'Oreal and Lululemon — that many managers plus a legal seat signals real contract-and-split complexity, which is why it maxes the multi-manager weight.",
+    "email": "Alex, Brooke — Link MGMT runs roughly 18 people, including five senior talent managers and in-house corporate counsel, with brands like L'Oreal, Lululemon, and Target on your work. At that size, brand deals, contract terms, and creator payouts usually sprawl across tools that don't talk to each other. July unifies CRM, media kits, and payments so your managers and counsel work from the same record. Worth 15 minutes to compare against your current stack?",
+    "sources": [
+      "https://www.linkcreatormgmt.com/about",
+      "https://www.linkcreatormgmt.com/",
+      "https://theorg.com/org/link-management/org-chart/brooke-meister"
+    ]
+  },
+  {
+    "name": "Jabber Haus",
+    "website": "https://www.jabberhaus.com",
+    "hq": "Los Angeles, CA",
+    "hq_short": "Los Angeles",
+    "roster_count": null,
+    "roster_display": "roster by request",
+    "employees": "Founder Lauren Chriqui plus COO Kora D'Attellis and managers (founded 2016)",
+    "brand_inquiry": "Email (info@jabberhaus.com) and a form to 'submit a roster request'",
+    "brand_partners": "Not individually named on site",
+    "decision_maker": {
+      "name": "Lauren Chriqui",
+      "title": "Founder & Manager",
+      "linkedin": "https://www.linkedin.com/in/lauren-chriqui-4571a923/"
+    },
+    "flag": null,
+    "score": 74,
+    "score_breakdown": {"roster_fit": 20, "manual_ops": 21, "multi_manager": 14, "payment_complexity": 9, "reachability": 10},
+    "reasoning": "Scores 74 because brands reach Jabber Haus only by emailing info@jabberhaus.com and 'submitting a roster request' — every deal begins as a manual back-and-forth with no self-serve deal view — and the roster count itself is gated, so it earns high ops friction but uncertain roster fit.",
+    "email": "Lauren — brands reach Jabber Haus by emailing info@jabberhaus.com and 'submitting a roster request,' which means every deal starts as a manual back-and-forth. Since 2016 that inbox-first flow tends to bury deal status and rate cards as the roster grows. July turns it into a CRM with media kits and creator payments so brand requests don't live in email. Open to 15 minutes to see if it helps?",
+    "sources": [
+      "https://www.jabberhaus.com/",
+      "https://izea.com/press-releases/jabber-haus-joins-izeas-talent-partner-program/",
+      "https://www.linkedin.com/in/lauren-chriqui-4571a923/"
+    ]
+  },
+  {
+    "name": "The Rise Group",
+    "website": "https://therisegrp.com",
+    "hq": "New York City, NY",
+    "hq_short": "NYC",
+    "roster_count": null,
+    "roster_display": "roster n/d (boutique)",
+    "employees": "Founder-led; small boutique team",
+    "brand_inquiry": "Founder's personal email (emma@therisegrp.com), a form, and Instagram DM (@therisetalentgroup)",
+    "brand_partners": "Creators expanding into podcasts, publishing, TV and product; brands not individually listed",
+    "decision_maker": {
+      "name": "Emma Burke",
+      "title": "Founder & CEO",
+      "linkedin": "https://www.linkedin.com/in/emmagburke/"
+    },
+    "flag": null,
+    "score": 72,
+    "score_breakdown": {"roster_fit": 22, "manual_ops": 24, "multi_manager": 8, "payment_complexity": 8, "reachability": 10},
+    "reasoning": "Scores 72 because brand inquiries land directly on the founder (emma@therisegrp.com) or via Instagram DM while she pushes creators into podcasts, publishing and products — multi-stream deals through one personal inbox is high friction, though the small team limits the coordination and payment weights.",
+    "email": "Emma — brand inquiries at The Rise Group come to you directly at emma@therisegrp.com or via Instagram DM, and you're building creators into podcasts, publishing, and products. As those deals multiply per creator, a founder's inbox becomes the bottleneck for every rate and contract. July replaces that with a CRM, branded media kits, and payments your team can run as you grow. Worth 15 minutes to take a look?",
+    "sources": [
+      "https://therisegrp.com/",
+      "https://www.linkedin.com/in/emmagburke/",
+      "https://qava.ai/therisegroup"
+    ]
+  },
+  {
+    "name": "Parker Management",
+    "website": "https://parkertalentmanagement.com",
+    "hq": "Los Angeles, CA (offices Portland & Dallas)",
+    "hq_short": "Los Angeles",
+    "roster_count": 85,
+    "roster_display": "85+ creators",
+    "employees": "Team emphasizes 'one of the lowest manager-to-talent ratios in the industry'",
+    "brand_inquiry": "A single 'Get in touch' contact form; roster sits behind a password/request wall",
+    "brand_partners": "Disney, Amazon, Hyundai, Nordstrom, Nike, Target, Walmart, Jack Daniels, Ford, The Home Depot",
+    "decision_maker": {
+      "name": "Lindsay Nead",
+      "title": "Founder & CEO",
+      "linkedin": "https://www.linkedin.com/in/lindsaynead/"
+    },
+    "flag": "Acquired by Propagate Content; continues to operate under its own brand as a division.",
+    "score": 70,
+    "score_breakdown": {"roster_fit": 12, "manual_ops": 20, "multi_manager": 16, "payment_complexity": 12, "reachability": 10},
+    "reasoning": "Scores 70 because Parker represents 85+ creators — past the 60-creator line, which caps roster fit — yet gates that whole roster behind a password and a single contact form, a manual-gatekeeping and payout load across a large book of named brands like Disney and Nike.",
+    "email": "Lindsay — Parker represents 85+ creators, yet the roster sits behind a password and brand inquiries come through a single contact form. Gatekeeping that much talent through one form and manual media kits gets heavy fast, even with a low manager-to-talent ratio. July gives you a CRM, shareable media kits, and creator payouts in one place built for teams your size. Could we find 15 minutes?",
+    "sources": [
+      "https://parkertalentmanagement.com/",
+      "https://martech360.com/influencer-marketing/propagate-content-acquires-parker-management/",
+      "https://www.linkedin.com/in/lindsaynead/"
+    ]
+  },
+  {
+    "name": "G&B Digital Management",
+    "website": "https://www.gb-dm.com",
+    "hq": "Los Angeles, CA",
+    "hq_short": "Los Angeles",
+    "roster_count": 60,
+    "roster_display": "60+ clients",
+    "employees": "6 named: Kyle Hjelmeseth (Founder/CEO), Executive Director, Director of Talent, Sr Talent Manager, Assoc Director of Talent, Director of Creator Programming",
+    "brand_inquiry": "A 'Let's work together' /contact form and a 'For Brands' section",
+    "brand_partners": "Dior and Amazon cited; roster spans fashion, beauty, family, food, hospitality",
+    "decision_maker": {
+      "name": "Kyle Hjelmeseth",
+      "title": "Founder & CEO",
+      "linkedin": "https://www.linkedin.com/in/kylehjelmeseth/"
+    },
+    "flag": "Inc. 5000 honoree (2023); BIPOC-owned.",
+    "score": 70,
+    "score_breakdown": {"roster_fit": 16, "manual_ops": 15, "multi_manager": 18, "payment_complexity": 11, "reachability": 10},
+    "reasoning": "Scores 70 because the team page shows four talent managers supporting 60+ exclusive clients (just over the enterprise line) for brands like Dior and Amazon — strong multi-manager coordination need, tempered by a more built-out, less scrappy operation than the smaller boutiques.",
+    "email": "Kyle — G&B's team page shows four talent managers supporting 60-plus exclusive clients across fashion, food, and hospitality, with work for Dior and Amazon. Once a handful of managers are each juggling that many creators, brand-deal status and media kits get hard to keep in one view. July gives your managers a shared CRM, media kits, and creator payouts instead of scattered decks and threads. Could I get 15 minutes?",
+    "sources": [
+      "https://www.gb-dm.com/about",
+      "https://www.gb-dm.com/",
+      "https://www.linkedin.com/in/kylehjelmeseth/"
+    ]
+  },
+  {
+    "name": "Trend Management",
+    "website": "https://www.trendcompanies.com",
+    "hq": "Houston, TX (Nashville, NYC, LA)",
+    "hq_short": "Houston",
+    "roster_count": null,
+    "roster_display": "roster n/d",
+    "employees": "Multi-division: Trend Management, Trend Social, Trend Athletes, Elevate by Trend; 'dedicated managers' act as negotiators",
+    "brand_inquiry": "A 'Get in Touch' link; no public deal system",
+    "brand_partners": "Cites 'the best brand relationships in the business'; not individually listed",
+    "decision_maker": {
+      "name": "Ted Raad",
+      "title": "Founder & CEO",
+      "linkedin": "https://www.linkedin.com/in/ted-raad-mba-0b98512b"
+    },
+    "flag": "Inc. 5000 honoree (2025).",
+    "score": 69,
+    "score_breakdown": {"roster_fit": 14, "manual_ops": 14, "multi_manager": 18, "payment_complexity": 13, "reachability": 10},
+    "reasoning": "Scores 69 because Trend spreads creators, athletes and an influencer-marketing arm across four cities with managers positioned as deal negotiators — heavy multi-manager and payout coordination — but the scale and division structure push it past the boutique roster sweet spot.",
+    "email": "Ted — Trend spans management, social, and athletes across Houston, Nashville, New York, and LA, with managers positioned as your creators' deal negotiators. Coordinating negotiations, splits, and payouts across four cities and three divisions is where spreadsheets quietly break. July centralizes brand-deal CRM, media kits, and creator payments so every manager works from one record. Worth 15 minutes to compare with how Trend runs deals today?",
+    "sources": [
+      "https://www.trendcompanies.com/whatwedo",
+      "https://www.inc.com/profile/trend-companies",
+      "https://www.linkedin.com/in/ted-raad-mba-0b98512b"
+    ]
+  },
+  {
+    "name": "FamFluence Talent Management",
+    "website": "https://famfluence.com",
+    "hq": "New York (founder in Bellmore, NY)",
+    "hq_short": "New York",
+    "roster_count": 120,
+    "roster_display": "120+ creators",
+    "employees": "Jim Silver (CEO/Co-Founder), Kathleen Tomes (President/Co-Founder), SVP Alexa Vogue, plus managers",
+    "brand_inquiry": "A /collaborate page and a /contact form",
+    "brand_partners": "Cites 'strategic relationships with over 3,000 brands'; family/parenting niche",
+    "decision_maker": {
+      "name": "Jim Silver",
+      "title": "CEO & Co-Founder",
+      "linkedin": "https://www.linkedin.com/in/jim-silver/"
+    },
+    "flag": null,
+    "score": 62,
+    "score_breakdown": {"roster_fit": 8, "manual_ops": 13, "multi_manager": 18, "payment_complexity": 13, "reachability": 10},
+    "reasoning": "Scores 62 because FamFluence manages 120+ family creators against 3,000+ brand relationships — well beyond the boutique roster sweet spot, so roster fit is low — but the sheer volume handled by a lean leadership team makes multi-manager and payout coordination its strongest signals.",
+    "email": "Jim — FamFluence manages 120+ family creators and cites relationships with 3,000+ brands, all coordinated by a lean leadership team. At that ratio, tracking which brand deal sits where, plus media kits and fair payouts, is a real operational load. July gives your managers one CRM, branded media kits, and creator payments instead of spreadsheets and email. Could I get 15 minutes to show how it fits family-focused management?",
+    "sources": [
+      "https://famfluence.com/meet-the-team/",
+      "https://famfluence.com/talents/",
+      "https://www.linkedin.com/in/jim-silver/"
+    ]
+  },
+  {
+    "name": "Creators Agency",
+    "website": "https://creatorsagency.co",
+    "hq": "Las Vegas, NV",
+    "hq_short": "Las Vegas",
+    "roster_count": 262,
+    "roster_display": "~262 creators",
+    "employees": "3 founders (Erika Kullberg, Apple Crider, Eric Kullberg); 'everyone on the team creates content'",
+    "brand_inquiry": "A 'book a strategy call' flow (Calendly-style), not an inbox",
+    "brand_partners": "Cites $50M paid to creators and 4,000+ sponsored deliverables since 2021; finance/business niche",
+    "decision_maker": {
+      "name": "Apple Crider",
+      "title": "Co-Founder & CEO",
+      "linkedin": "https://www.linkedin.com/in/applecrider/"
+    },
+    "flag": null,
+    "score": 60,
+    "score_breakdown": {"roster_fit": 6, "manual_ops": 12, "multi_manager": 18, "payment_complexity": 14, "reachability": 10},
+    "reasoning": "Scores 60 because Creators Agency spans ~262 finance and business creators and reports $50M paid across 4,000+ deals — payout and split operations are clearly core — but that scale sits far outside the 8-40 roster target and it already runs a booked-call intake, so ops friction and roster fit both score low.",
+    "email": "Apple — Creators Agency has paid $50M+ to creators across 4,000+ deals since 2021, with a roster concentrated in finance and business content. That deal volume means payouts, splits, and media kits are core operations, not a side task. July brings brand-deal CRM, media kits, and creator payments into one system built for management teams. Worth 15 minutes to see where it complements what you've built?",
+    "sources": [
+      "https://creatorsagency.co/",
+      "https://www.linkedin.com/in/applecrider/",
+      "https://variety.com/2026/digital/news/digital-creator-firm-link-management-launches-client-list-1236627196/"
+    ]
+  },
+  {
+    "name": "Platform Talent",
+    "website": "https://platformtalent.com",
+    "hq": "North America (city not disclosed)",
+    "hq_short": "North America",
+    "roster_count": 90,
+    "roster_display": "90+ creators",
+    "employees": "Founder 'Sara' (last name not on site); a team page exists but names aren't shown",
+    "brand_inquiry": "A 'Let's Work Together' form plus a 'Hire Talent' deck request; Meta Marketing Partner running ~300 campaigns/month",
+    "brand_partners": "Fashion, beauty, food, fitness, tech, parenting; specific brands not listed",
+    "decision_maker": {
+      "name": "Sara (last name not published)",
+      "title": "Founder",
+      "linkedin": "unknown"
+    },
+    "flag": "No full decision-maker name or public LinkedIn found on the site — lowest reachability of the set.",
+    "score": 49,
+    "score_breakdown": {"roster_fit": 10, "manual_ops": 12, "multi_manager": 12, "payment_complexity": 12, "reachability": 3},
+    "reasoning": "Scores 49 because Platform reps 90+ creators and runs ~300 campaigns a month as a Meta Marketing Partner — a systematized, larger operation — but the site names only a first-name founder ('Sara') with no public LinkedIn, so reachability is the weakest in the set and roster fit is beyond target.",
+    "email": "Your site says Platform represents 90+ exclusive creators and runs ~300 campaigns a month as a Meta Marketing Partner. At that volume, brand-deal tracking, media kits, and creator payouts are hard to keep in one place across paid and organic work. July unifies CRM, media kits, and payments so campaigns and creator deals share one system. Could you point me to whoever leads talent ops for a 15-minute look?",
+    "sources": [
+      "https://platformtalent.com/",
+      "https://www.platformtalent.com/about"
+    ]
+  }
+]
