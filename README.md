@@ -1,4 +1,4 @@
-# July — Talent Agency Prospect List
+# July · Talent Agency Prospect List
 
 A cold-email artifact for a GTM application to [July](https://withjuly.com): 15 real
 creator/talent-management agencies scored for fit with July's CRM + media-kit + payments platform,

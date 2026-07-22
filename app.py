@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # ----------------------------------------------------------------------------
-# Styling — make it read like a product, not a Streamlit demo.
+# Styling, make it read like a product, not a Streamlit demo.
 # ----------------------------------------------------------------------------
 st.markdown(
     """
@@ -137,7 +137,7 @@ st.markdown(
 )
 
 # ----------------------------------------------------------------------------
-# Optional filter — tucked away so the default view stays clean
+# Optional filter, tucked away so the default view stays clean
 # ----------------------------------------------------------------------------
 with st.expander("Filter"):
     min_score = st.slider("Minimum fit score", 0, 100, 0, step=1)
@@ -201,9 +201,9 @@ def render_card(a, dim=False):
         d = a
         dm = d["decision_maker"]
         if dm["linkedin"] and dm["linkedin"] != "unknown":
-            dm_val = f"{dm['name']} — {dm['title']} · [LinkedIn]({dm['linkedin']})"
+            dm_val = f"{dm['name']}, {dm['title']} · [LinkedIn]({dm['linkedin']})"
         else:
-            dm_val = f"{dm['name']} — {dm['title']} (LinkedIn not public)"
+            dm_val = f"{dm['name']}, {dm['title']} (LinkedIn not public)"
         rows = [
             ("Website", f"[{clean(d['website'])}]({d['website']})"),
             ("HQ", d["hq"]),
@@ -237,7 +237,7 @@ if not shown:
 # ----------------------------------------------------------------------------
 # Methodology
 # ----------------------------------------------------------------------------
-with st.expander("Methodology — rubric, weights, sourcing"):
+with st.expander("Methodology, rubric, weights, sourcing"):
     st.markdown(
         """
 **What this is.** A prospect list for **July** (withjuly.com), which sells a CRM + media-kit +
@@ -247,7 +247,7 @@ website during research.
 
 **How it was sourced.** Web search across creator-economy directories and trade press
 (Tubefilter, Variety, Deadline, WWD) produced ~40 candidates. Each was opened and read on its own
-live site to confirm it is a *management* agency — represents a roster, negotiates brand deals — not
+live site to confirm it is a *management* agency, represents a roster, negotiates brand deals, not
 a brand-side marketing shop, PR firm, or Hollywood agency. 30 passed; the 15 here are the strongest
 ICP fits. Anything that couldn't be fetched cleanly, or turned out to be an OnlyFans / modeling /
 coaching shop, was dropped rather than guessed.
@@ -264,6 +264,6 @@ coaching shop, was dropped rather than guessed.
 
 **Honesty rules.** Unverifiable fields are labelled rather than estimated. Recent structural changes
 are flagged inline (e.g., Spark was acquired Jan 2026; Parker is now a Propagate division). No one
-was contacted — this is research output only.
+was contacted, this is research output only.
         """
     )
